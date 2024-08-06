@@ -1,0 +1,10 @@
+scikit-image
+numpy==1.26.3
+opencv-python
+ipykernel
+pillow==10.2.0
+matplotlib
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==2.3.1+cpu
+torchaudio==2.3.1+cpu
+torchvision==0.18.1+cpu
